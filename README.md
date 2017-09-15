@@ -1,5 +1,7 @@
 # Zillow’s Home Value Prediction (Zestimate)
 
+For a wrapped-up report, please refer [here](./FinalProjectReport.pdf).
+
 ## DataSet Source
 
 - All the properties with their home features for 2016:
