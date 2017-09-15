@@ -1,4 +1,4 @@
-# Final Project - Zillow’s Home Value Prediction (Zestimate)
+# Zillow’s Home Value Prediction (Zestimate)
 
 ## DataSet Source
 
