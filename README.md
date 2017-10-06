@@ -1,5 +1,7 @@
 # Zillow’s Home Value Prediction (Zestimate)
 
+This is a project with big data techniques. I used R to do a data analysis, used PySpark to do data cleansing and build model. Finally, we used the model to perform predictions on millions of instances.
+
 For a wrapped-up report, please refer [here](./FinalProjectReport.pdf).
 
 ## DataSet Source
